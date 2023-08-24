@@ -194,6 +194,8 @@ Uses `GEOS ST_ConcaveHull` as implemented by `sf` in R.
 
 [VEPII demography - NRG]{.menu-title style="display: none;"}
 
+## A smidge a-historical
+
 ## Conclusions
 
 ```{=html}
