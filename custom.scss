@@ -146,42 +146,6 @@ $presentation-h2-font-size: 2em;
   visibility: visible;
 }
 
-/* TITLE SLIDE */
-.reveal .slides .title-left {
-  margin: 0.5em 0.85em 0.85em 0.85em;
-}
-
-.title-left h2 {
-  font-size: 2.3em !important;
-  color: $caribbean-current;
-  line-height: 1.2em;
-  font-weight: 700 !important;
-  margin: 0;
-}
-
-.title-left .title-top {
-  margin: 0.5em 0 0 0;
-  color: $gray-600;
-  font-size: 1em;
-}
-
-.title-left .title-top p {
-  margin: 0;
-}
-
-.title-left .title-bottom {
-  position: absolute;
-  bottom: 0;
-  margin: 0;
-  font-size: 1em;
-  line-height: 1.1em;
-}
-
-.title-left .title-bottom p {
-  margin: 0.2em 0 0 0;
-  color: $sienna;
-}  
-
 .legend-key {
   width: 1em; 
   height: 1em; 
@@ -263,3 +227,44 @@ $presentation-h2-font-size: 2em;
 .hide-empty-h2 > h2:first-child {
   margin: 0;
 }
+
+/* TITLE SLIDE */
+.reveal .slides .title-left {
+  margin: 0.5em 0.85em 0.85em 0.85em;
+}
+
+.title-left h2 {
+  font-size: 2.3em !important;
+  color: $rich-black;
+  line-height: 1.2em;
+  font-weight: 700 !important;
+  margin: 0;
+}
+
+.title-left .title-top {
+  margin: 0.5em 0 0 0;
+  color: $gray-700;
+  font-size: 1em;
+}
+
+.title-left .title-top p {
+  margin: 0;
+}
+
+.title-left .title-bottom {
+  position: absolute;
+  bottom: 0;
+  margin: 0;
+  font-size: 1em;
+  line-height: 1.1em;
+}
+
+.title-left .title-bottom p {
+  margin: 0.2em 0 0 0;
+  color: $rich-black;
+}  
+
+.title-left .title-bottom a {
+  color: $rich-black;
+  border-bottom: 1px solid $rich-black;
+}  

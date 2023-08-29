@@ -7,6 +7,8 @@
 
 Repository for my presentation at the European Archaeology Association Annual Meeting in Belfast. Slides made using [quarto](https://quarto.org/) and R. 
 
+[Well, this would have been my talk anyway, if my American Airlines flight had been on time...]
+
 __Slides:__ <https://kbvernon.github.io/eaa_2023-community_centers>
 
 You can press "F" to enter Full Screen mode and "S" to enter Speaker view. The hamburger button ☰ at the bottom left of the screen opens a menu that allows you to easily navigate the presentation.  

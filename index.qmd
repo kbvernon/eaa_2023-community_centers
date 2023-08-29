@@ -11,8 +11,7 @@ execute:
 engine: knitr
 ---
 
-## A core-periphery approach to defining community boundaries {.title-left}
-
+## A core-periphery approach to defining community boundaries {.title-left background-image="figures/dall-e-penguins.png" background-size="contain"}
 ::: title-top
 K. Blake Vernon and Scott Ortman
 :::
@@ -46,7 +45,7 @@ Can explain the behaviors that lead to agriculture.
    ![](figures/challenge-03-site-definition.png){height=120 width=360}
 :::
 
-## Need well-defined communities
+## Can try regionalizing sites
 
 :::::: {.v-center-container  .no-p-margin style="flex-flow: column;"}
 ::: {style="display: flex; flex-flow: row; flex-wrap: nowrap; margin-right: auto;"}
@@ -194,7 +193,11 @@ Uses `GEOS ST_ConcaveHull` as implemented by `sf` in R.
 
 [VEPII demography - NRG]{.menu-title style="display: none;"}
 
-## A smidge a-historical
+## But a smidge a-historical
+
+Area never changes, just density.
+
+![](figures/a-historical.png){.img0 width="100%" style="margin-top: 2em;"}
 
 ## Conclusions
 
@@ -267,5 +270,17 @@ Uses `GEOS ST_ConcaveHull` as implemented by `sf` in R.
 </table>
 ```
 
-## Acknowledgments
+## Acknowledgments {background-image="figures/chaco-masonry.jpg" background-size="contain"}
+
+::: {style="width:65%; text-align: left; margin: 0 auto auto 0;"}
+::: {layout="[[1], [1], [0.5,1.5]]"}
+![](https://ibsweb.colorado.edu/archaeology/wp-content/uploads/sites/20/2021/10/CfAS-CCSA_notagline.png){style="height:130px;"}
+
+![](figures/logo-asw.png){style="height:75px; padding-top: 10px;"}
+
+![](figures/logo-cybersw.png){style="height:100px; padding-top:30px;"}
+
+![](https://www.nsf.gov/policies/images/NSF_Official_logo_High_Res_1200ppi.png){style="height:140px;"}
+:::
+:::
 
